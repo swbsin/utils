@@ -1,3 +1,3 @@
-cd /rootfabric-tools
+cd /root/fabric-tools
 ./stopFabric.sh
 ./teardownFabric.sh
