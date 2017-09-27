@@ -1,4 +1,4 @@
-cd root/fabric-tools
+cd fabric-tools
 ./downloadFabric.sh
 ./startFabric.sh
 ./createComposerProfile.sh
