@@ -1,4 +1,4 @@
-sudo su
+# sudo su
 apt-get update
 apt-get install unzip
 
